@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "YYTool.h"
+
 //! Project version number for YYTest.
 FOUNDATION_EXPORT double YYTestVersionNumber;
 
